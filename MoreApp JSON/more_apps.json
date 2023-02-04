@@ -1,11 +1,14 @@
 [
-        {
-            "name": "https://play.google.com/store/apps/details?id=com.vehicles.cars.wallpapers",     
-            "img": "https://i.imgur.com/1derfMP.jpg"
-        },
-        {
-            "name": "https://play.google.com/store/apps/details?id=com.niagara.launcher.wallpapers",     
-            "img": "https://i.imgur.com/VFubZ25.jpg"
-        }
+        
+    {"name": "https://play.google.com/store/apps/details?id=com.hd.wallpapers.amoled","img": "https://i.imgur.com/1derfMP.jpg"},
+    {"name": "https://play.google.com/store/apps/details?id=com.hd.wallpapers.seascape","img": "https://i.imgur.com/1derfMP.jpg"},
+    {"name": "https://play.google.com/store/apps/details?id=com.hd.wallpapers.gaming","img": "https://i.imgur.com/1derfMP.jpg"},
+    {"name": "https://play.google.com/store/apps/details?id=com.hd.wallpapers.art","img": "https://i.imgur.com/1derfMP.jpg"},
+    {"name": "https://play.google.com/store/apps/details?id=com.hd.wallpapers.macro", "img": "https://i.imgur.com/1derfMP.jpg"},
+    {"name": "https://play.google.com/store/apps/details?id=com.hd.wallpapers.7.wonders","img": "https://i.imgur.com/1derfMP.jpg"},
+    {"name": "https://play.google.com/store/apps/details?id=com.vehicles.cars.wallpapers","img": "https://i.imgur.com/1derfMP.jpg"},
+    {"name": "https://play.google.com/store/apps/details?id=com.hd.wallpapers.yellow","img": "https://i.imgur.com/1derfMP.jpg"},
+    {"name": "https://play.google.com/store/apps/details?id=com.nothing.dots.wallpapers","img": "https://i.imgur.com/1derfMP.jpg"},
+    {"name": "https://play.google.com/store/apps/details?id=com.niagara.launcher.wallpapers","img": "https://i.imgur.com/VFubZ25.jpg"}
 
     ]
