@@ -1,56 +1,74 @@
 [
-  {
-    "w_url": "https://images6.alphacoders.com/129/1292333.jpg",
-    "w_name": "Product 1",
-    "is_free": false,
-    "collection_id": "COL001"
-  },
-  {
-    "w_url": "https://images6.alphacoders.com/129/1292333.jpg",
-    "w_name": "Product 1",
-    "is_free": true,
-    "collection_id": "COL001"
-  },
-  {
-   "w_url": "https://images6.alphacoders.com/129/1292333.jpg",
-    "w_name": "Product 1",
-    "is_free": false,
-    "collection_id": "COL001"
-  },
-  {
-    "w_url": "https://images6.alphacoders.com/129/1292333.jpg",
-    "w_name": "Product 1",
-    "is_free": false,
-    "collection_id": "COL001"
-  },
-  {
-    "w_url": "https://images6.alphacoders.com/129/1292333.jpg",
-    "w_name": "Product 1",
-    "is_free": false,
-    "collection_id": "COL001"
-  },
-  {
-    "w_url": "https://images6.alphacoders.com/129/1292333.jpg",
-    "w_name": "Product 1",
-    "is_free": false,
-    "collection_id": "COL001"
-  },
-  {
-	"w_url": "https://images6.alphacoders.com/129/1292333.jpg",
-    "w_name": "Product 1",
-    "is_free": true,
-    "collection_id": "COL001"
-  },
-  {
-	"w_url": "https://images6.alphacoders.com/129/1292333.jpg",
-    "w_name": "Product 1",
-    "is_free": false,
-    "collection_id": "COL001"
-  },
-  {
-    "w_url": "https://images6.alphacoders.com/129/1292333.jpg",
-    "w_name": "Product 1",
-    "is_free": false,
-    "collection_id": "COL001"
-  }
+   {
+      "w_url":"https://images6.alphacoders.com/129/1292333.jpg",
+      "t_url":"https://images6.alphacoders.com/129/1292333.jpg",
+      "w_name":"Product 1",
+      "featured":true,
+      "is_free":false,
+      "collection_id":"COL001"
+   },
+   {
+      "w_url":"https://images6.alphacoders.com/129/1292333.jpg",
+      "t_url":"https://images6.alphacoders.com/129/1292333.jpg",
+      "w_name":"Product 1",
+      "featured":false,
+      "is_free":true,
+      "collection_id":"COL001"
+   },
+   {
+      "w_url":"https://images6.alphacoders.com/129/1292333.jpg",
+      "t_url":"https://images6.alphacoders.com/129/1292333.jpg",
+      "w_name":"Product 1",
+      "featured":false,
+      "is_free":false,
+      "collection_id":"COL001"
+   },
+   {
+      "w_url":"https://images6.alphacoders.com/129/1292333.jpg",
+      "t_url":"https://images6.alphacoders.com/129/1292333.jpg",
+      "w_name":"Product 1",
+      "featured":true,
+      "is_free":false,
+      "collection_id":"COL001"
+   },
+   {
+      "w_url":"https://images6.alphacoders.com/129/1292333.jpg",
+      "t_url":"https://images6.alphacoders.com/129/1292333.jpg",
+      "w_name":"Product 1",
+      "featured":false,
+      "is_free":false,
+      "collection_id":"COL001"
+   },
+   {
+      "w_url":"https://images6.alphacoders.com/129/1292333.jpg",
+      "t_url":"https://images6.alphacoders.com/129/1292333.jpg",
+      "w_name":"Product 1",
+      "featured":false,
+      "is_free":false,
+      "collection_id":"COL001"
+   },
+   {
+      "w_url":"https://images6.alphacoders.com/129/1292333.jpg",
+      "t_url":"https://images6.alphacoders.com/129/1292333.jpg",
+      "w_name":"Product 1",
+      "featured":false,
+      "is_free":true,
+      "collection_id":"COL001"
+   },
+   {
+      "w_url":"https://images6.alphacoders.com/129/1292333.jpg",
+      "t_url":"https://images6.alphacoders.com/129/1292333.jpg",
+      "w_name":"Product 1",
+      "featured":true,
+      "is_free":false,
+      "collection_id":"COL001"
+   },
+   {
+      "w_url":"https://images6.alphacoders.com/129/1292333.jpg",
+      "t_url":"https://images6.alphacoders.com/129/1292333.jpg",
+      "w_name":"Product 1",
+      "featured":false,
+      "is_free":false,
+      "collection_id":"COL001"
+   }
 ]
