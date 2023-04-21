@@ -5,8 +5,7 @@
    "image_url": "https://images6.alphacoders.com/129/1292333.jpg",
    "title": "Product 1",
    "tag_line": "The best product on the market",
-   "wallpaper_count": 5,
-   "collection_id": "COL001"
+   "wallpaper_count": 5
 },
 
 {
@@ -15,8 +14,7 @@
    "image_url": "https://images6.alphacoders.com/129/1292333.jpg",
    "title": "Product 2",
    "tag_line": "A product for every occasion",
-   "wallpaper_count": 10,
-   "collection_id": "COL002"
+   "wallpaper_count": 10
 },
 
 {
@@ -25,8 +23,7 @@
    "image_url": "https://images6.alphacoders.com/129/1292333.jpg",
    "title": "Product 3",
    "tag_line": "Experience the difference",
-   "wallpaper_count": 7,
-   "collection_id": "COL003"
+   "wallpaper_count": 7
 },
 
 {
@@ -35,8 +32,7 @@
    "image_url": "https://images6.alphacoders.com/129/1292333.jpg",
    "title": "Product 4",
    "tag_line": "Quality you can trust",
-   "wallpaper_count": 3,
-   "collection_id": "COL004"
+   "wallpaper_count": 3
 },
 
 {
@@ -45,8 +41,7 @@
    "image_url": "https://images6.alphacoders.com/129/1292333.jpg",
    "title": "Product 5",
    "tag_line": "Innovative solutions for modern problems",
-   "wallpaper_count": 9,
-   "collection_id": "COL005"
+   "wallpaper_count": 9
 },
 
 {
@@ -55,8 +50,7 @@
    "image_url": "https://images6.alphacoders.com/129/1292333.jpg",
    "title": "Product 6",
    "tag_line": "Revolutionizing the industry",
-   "wallpaper_count": 2,
-   "collection_id": "COL006"
+   "wallpaper_count": 2
 },
 
 {
@@ -65,8 +59,7 @@
    "image_url": "https://images6.alphacoders.com/129/1292333.jpg",
    "title": "Product 7",
    "tag_line": "For a better tomorrow",
-   "wallpaper_count": 8,
-   "collection_id": "COL007"
+   "wallpaper_count": 8
 },
 
 {
@@ -75,8 +68,7 @@
    "image_url": "https://images6.alphacoders.com/129/1292333.jpg",
    "title": "Product 8",
    "tag_line": "The ultimate solution",
-   "wallpaper_count": 4,
-   "collection_id": "COL008"
+   "wallpaper_count": 4
 },
 
 {
@@ -85,7 +77,6 @@
    "image_url": "https://images6.alphacoders.com/129/1292333.jpg",
    "title": "Product 9",
    "tag_line": "Innovative and reliable",
-   "wallpaper_count": 6,
-   "collection_id": "COL009"
+   "wallpaper_count": 6
 }
 ]
