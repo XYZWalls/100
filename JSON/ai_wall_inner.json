@@ -1,5 +1,4 @@
-// 20230421102905
-// https://raw.githubusercontent.com/XYZWalls/100/main/JSON/ai_wall_inner.json
+
 
 [
   {
@@ -56,7 +55,7 @@
     "t_url": "https://images6.alphacoders.com/129/1292333.jpg",
     "w_name": "Product 1",
     "featured": false,
-    "is_free": true,
+    "is_free": false,
     "sku_id": "PRD001"
 
   },
