@@ -1,0 +1,20 @@
+{
+    "wallpapers": [
+      {
+        "name": "Sunset",
+        "image_url": "https://i.imgur.com/0AJ0QeY.png",
+        "thumb_url": "https://i.imgur.com/0AJ0QeYl.jpg"
+      },
+      {
+        "name": "Mountains",
+        "image_url": "https://i.imgur.com/0Bjntg6.png",
+        "thumb_url": "https://i.imgur.com/0Bjntg6.png"
+      },
+      {
+        "name": "Beach",
+        "image_url": "https://i.imgur.com/0hdTPVn.png",
+        "thumb_url": "https://i.imgur.com/0hdTPVn.png"
+      }
+    ]
+  }
+  
