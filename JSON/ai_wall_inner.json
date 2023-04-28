@@ -14,8 +14,8 @@
     "t_url": "https://i.imgur.com/00tUslFl.jpgg",
     "w_name": "Product 1",
     "featured": false,
-    "is_free": true,
-    "sku_id": "PRD002"
+    "is_free": false,
+    "sku_id": "prd_02"
   },
   {
     "w_url": "https://i.imgur.com/00tUslFl.jpg",
@@ -74,7 +74,7 @@
     "w_name": "Product 1",
     "featured": false,
     "is_free": false,
-    "sku_id": "PRD003"
+    "sku_id": "prd_02"
 
   }
 ]
