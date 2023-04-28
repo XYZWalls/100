@@ -3,16 +3,16 @@
    "url": "https://example.com/product1",
    "sku_id": "prd_01",
    "image_url": "https://images6.alphacoders.com/129/1292333.jpg",
-   "title": "Product 1",
+   "title": "Collection 1",
    "tag_line": "The best product on the market",
    "wallpaper_count": 5
 },
 
 {
    "url": "https://example.com/product2",
-   "sku_id": "PRD002",
+   "sku_id": "prd_02",
    "image_url": "https://images6.alphacoders.com/129/1292333.jpg",
-   "title": "Product 2",
+   "title": "Collection 2",
    "tag_line": "A product for every occasion",
    "wallpaper_count": 10
 },
@@ -21,7 +21,7 @@
    "url": "https://example.com/product3",
    "sku_id": "PRD003",
    "image_url": "https://images6.alphacoders.com/129/1292333.jpg",
-   "title": "Product 3",
+   "title": "Collection 3",
    "tag_line": "Experience the difference",
    "wallpaper_count": 7
 },
@@ -30,7 +30,7 @@
    "url": "https://example.com/product4",
    "sku_id": "PRD004",
    "image_url": "https://images6.alphacoders.com/129/1292333.jpg",
-   "title": "Product 4",
+   "title": "Collection 4",
    "tag_line": "Quality you can trust",
    "wallpaper_count": 3
 },
@@ -39,7 +39,7 @@
    "url": "https://example.com/product5",
    "sku_id": "PRD005",
    "image_url": "https://images6.alphacoders.com/129/1292333.jpg",
-   "title": "Product 5",
+   "title": "Collection 5",
    "tag_line": "Innovative solutions for modern problems",
    "wallpaper_count": 9
 },
@@ -48,7 +48,7 @@
    "url": "https://example.com/product6",
    "sku_id": "PRD006",
    "image_url": "https://images6.alphacoders.com/129/1292333.jpg",
-   "title": "Product 6",
+   "title": "Collection 6",
    "tag_line": "Revolutionizing the industry",
    "wallpaper_count": 2
 },
@@ -57,7 +57,7 @@
    "url": "https://example.com/product7",
    "sku_id": "PRD007",
    "image_url": "https://images6.alphacoders.com/129/1292333.jpg",
-   "title": "Product 7",
+   "title": "Collection 7",
    "tag_line": "For a better tomorrow",
    "wallpaper_count": 8
 },
@@ -66,7 +66,7 @@
    "url": "https://example.com/product8",
    "sku_id": "PRD008",
    "image_url": "https://images6.alphacoders.com/129/1292333.jpg",
-   "title": "Product 8",
+   "title": "Collection 8",
    "tag_line": "The ultimate solution",
    "wallpaper_count": 4
 },
@@ -75,7 +75,7 @@
    "url": "https://example.com/product9",
    "sku_id": "PRD009",
    "image_url": "https://images6.alphacoders.com/129/1292333.jpg",
-   "title": "Product 9",
+   "title": "Collection 9",
    "tag_line": "Innovative and reliable",
    "wallpaper_count": 6
 }
