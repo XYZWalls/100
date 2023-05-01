@@ -22,7 +22,7 @@
     "t_url": "https://i.imgur.com/00tUslFl.jpg",
     "w_name": "Product 1",
     "featured": false,
-    "is_free": false,
+    "is_free": true,
     "sku_id": "PRD002"
   },
   {
