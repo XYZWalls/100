@@ -15,7 +15,7 @@
     "w_name": "Product 1",
     "featured": false,
     "is_free": false,
-    "sku_id": "prd_02"
+    "sku_id": "donation3"
   },
   {
     "w_url": "https://i.imgur.com/00tUslFl.jpg",
@@ -23,7 +23,7 @@
     "w_name": "Product 1",
     "featured": false,
     "is_free": true,
-    "sku_id": "PRD002"
+    "sku_id": "donation3"
   },
   {
     "w_url": "https://i.imgur.com/00tUslFl.jpg",
@@ -31,7 +31,7 @@
     "w_name": "Product 1",
     "featured": true,
     "is_free": false,
-    "sku_id": "PRD004"
+    "sku_id": "donation3"
   },
   {
     "w_url": "https://i.imgur.com/00tUslFl.jpg",
@@ -39,7 +39,7 @@
     "w_name": "Product 1",
     "featured": false,
     "is_free": true,
-    "sku_id": "PRD005"
+    "sku_id": "donation3"
   },
   {
     "w_url": "https://i.imgur.com/00tUslFl.jpg",
@@ -47,7 +47,7 @@
     "w_name": "Product 1",
     "featured": false,
     "is_free": false,
-    "sku_id": "PRD005"
+    "sku_id": "donation3"
 
   },
   {
@@ -56,7 +56,7 @@
     "w_name": "Product 1",
     "featured": false,
     "is_free": false,
-    "sku_id": "PRD001"
+    "sku_id": "donation3"
 
   },
   {
@@ -65,7 +65,7 @@
     "w_name": "Product 1",
     "featured": true,
     "is_free": false,
-    "sku_id": "PRD003"
+    "sku_id": "donation3"
 
   },
   {
@@ -74,7 +74,7 @@
     "w_name": "Product 1",
     "featured": false,
     "is_free": false,
-    "sku_id": "prd_02"
+    "sku_id": "donation3"
 
   }
 ]
