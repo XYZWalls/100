@@ -7,7 +7,7 @@
     "w_name": "Product 1",
     "featured": true,
     "is_free": false,
-    "sku_id": "donation3"
+    "sku_id": "premium_user_new"
   },
   {
     "w_url": "https://i.imgur.com/00tUslFl.jpg",
@@ -39,7 +39,7 @@
     "w_name": "Product 1",
     "featured": false,
     "is_free": true,
-    "sku_id": "donation3"
+    "sku_id": "premium_user_new"
   },
   {
     "w_url": "https://i.imgur.com/00tUslFl.jpg",
@@ -47,7 +47,7 @@
     "w_name": "Product 1",
     "featured": false,
     "is_free": false,
-    "sku_id": "donation3"
+    "sku_id": "premium_user_new"
 
   },
   {
@@ -56,7 +56,7 @@
     "w_name": "Product 1",
     "featured": false,
     "is_free": false,
-    "sku_id": "donation3"
+    "sku_id": "premium_user_new"
 
   },
   {
