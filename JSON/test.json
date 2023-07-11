@@ -1,20 +1,41 @@
 {
-    "wallpapers": [
-      {
-        "name": "Sunset",
-        "image_url": "https://i.imgur.com/0AJ0QeY.png",
-        "thumb_url": "https://i.imgur.com/0AJ0QeYl.jpg"
-      },
-      {
-        "name": "Mountains",
-        "image_url": "https://i.imgur.com/0Bjntg6.png",
-        "thumb_url": "https://i.imgur.com/0Bjntg6.png"
-      },
-      {
-        "name": "Beach",
-        "image_url": "https://i.imgur.com/0hdTPVn.png",
-        "thumb_url": "https://i.imgur.com/0hdTPVn.png"
-      }
+    "status": "ok",
+    "count": 5,
+    "categories": [
+        {
+            "sku_id": "91",
+            "c_n": "Cute Adorable Baby Animals",
+            "c_t": "Experience Aww-some Moments & Unleash the Power of Cuteness",
+            "c_img": "https://i.imgur.com/GWnpH70.png",
+            "c_co": "0"
+        },
+        {
+            "sku_id": "92",
+            "c_n": "Exploring Space",
+            "c_t": "Unleash Your Cosmic Imagination with our Space Wallpaper Collection!",
+            "c_img": "https://i.imgur.com/IC8t6vZ.png",
+            "c_co": "0"
+        },
+        {
+            "sku_id": "95",
+            "c_n": "Floral Paradise",
+            "c_t": "Transform Your Walls with Exquisite Floral and Tropical Wallpapers!",
+            "c_img": "https://i.imgur.com/SieIPLW.png",
+            "c_co": "0"
+        },
+        {
+            "sku_id": "93",
+            "c_n": "Stunning Abstract",
+            "c_t": "Ultra high-quality Abstract wallpapers that are sure to blow your mind",
+            "c_img": "https://i.imgur.com/ySm7cok.png",
+            "c_co": "0"
+        },
+        {
+            "sku_id": "94",
+            "c_n": "Watercolor Wonders",
+            "c_t": "Watercolor Wonders - Artistry in Nature",
+            "c_img": "https://i.imgur.com/6XcXwuI.png",
+            "c_co": "0"
+        }
     ]
-  }
-  
+}
