@@ -1,31 +1,47 @@
 [
-        {
-            "name": "https://play.google.com/store/apps/details?id=com.arrow.wallpapers.wallipop",     
-            "img": "https://i.imgur.com/1nv3p39.png"
-        },
-		 {
-            "name": "https://play.google.com/store/apps/details?id=com.arrow.wallpapers.miniwall",     
-            "img": "https://i.imgur.com/kvnKMPL.png"
-        },
-        {
-            "name": "https://arrowwallpapers.blogspot.com",    
-            "img": "https://i.imgur.com/dLOKGo6.jpg"
-        },
-        {
-            "name": "https://justnewdesigns.com/iconpacks.html",         
-            "img": "https://i.imgur.com/CcvP588.jpg"
-        },
-        {
-            "name": "https://justnewdesigns.com/LineX.html",
-            "img": "https://i.imgur.com/l1BgC1c.jpg"
-        },
-		{
-            "name": "https://play.google.com/store/apps/details?id=com.jndapp.flora.material.iconpack",
-            "img": "https://i.imgur.com/kFiKmVb.jpg"
-        },
-		 {
-            "name": "https://play.google.com/store/apps/details?id=com.jndapp.dove.iconpack",
-            "img": "https://i.imgur.com/IfXrfZm.jpg"
-        }
-       
-    ]
+{
+    "name": "https://play.google.com/store/apps/details?id=com.wallart.ai.wallpapers",
+    "img": "https://i.imgur.com/CTZ3SJx.png"
+  },
+  {
+    "name": "https://play.google.com/store/apps/details?id=com.arrow.wallpapers.wallipop",
+    "img": "https://i.imgur.com/1nv3p39.png"
+  },
+  {
+    "name": "https://play.google.com/store/apps/details?id=com.arrow.wallpapers.miniwall",
+    "img": "https://i.imgur.com/kvnKMPL.png"
+  },
+  
+  {
+    "name": "https://play.google.com/store/apps/details?id=com.wallart.ai.wallpapers",
+    "img": "https://i.imgur.com/zXU5dFp.png"
+  },
+  {
+    "name": "https://arrowwallpapers.blogspot.com",
+    "img": "https://i.imgur.com/dLOKGo6.jpg"
+  },
+  {
+    "name": "https://justnewdesigns.com/iconpacks.html",
+    "img": "https://i.imgur.com/CcvP588.jpg"
+  },
+  {
+    "name": "https://play.google.com/store/apps/details?id=com.wallart.ai.wallpapers",
+    "img": "https://i.imgur.com/jBLSkn6.png"
+  },
+  {
+    "name": "https://justnewdesigns.com/LineX.html",
+    "img": "https://i.imgur.com/l1BgC1c.jpg"
+  },
+  {
+    "name": "https://play.google.com/store/apps/details?id=com.jndapp.flora.material.iconpack",
+    "img": "https://i.imgur.com/kFiKmVb.jpg"
+  },
+{
+    "name": "https://play.google.com/store/apps/details?id=com.wallart.ai.wallpapers",
+    "img": "https://i.imgur.com/Y5c6gb5.png"
+  },
+  {
+    "name": "https://play.google.com/store/apps/details?id=com.jndapp.dove.iconpack",
+    "img": "https://i.imgur.com/IfXrfZm.jpg"
+  }
+]
