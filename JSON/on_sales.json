@@ -2,6 +2,6 @@
   "text": "ON DISCOUNT FOR LIMITED  TIME",
   "on_sale": true,
   "offer": true,
-  "offer_ios": false,
+  "offer_ios": true,
   "val": "false"
 }
