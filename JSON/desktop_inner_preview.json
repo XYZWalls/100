@@ -1,0 +1,52 @@
+{
+    "status": "ok",
+    "count": 50,
+    "count_total": 52,
+    "pages": 1,
+    "DesktopWallpapers": [
+        {
+            "desktop_collection_id": "1",
+            "wallpaper_id": 1,
+            "desktop_collection_id": "1",
+            "desktop_collection_name": "Desktop Collection 1",
+            "title": "Birds",
+            "thumb_url": "https://i.imgur.com/01NTHDmh.jpg",
+            "url": "https://i.imgur.com/01NTHDmh.jpg",
+            "featured": 1,
+            "tags": "purple,cyan,",
+            "view_count": 0,
+            "download_count": 0,
+            "color": null,
+            "status": 1
+        },
+        {
+        	"desktop_collection_id": "1",
+            "wallpaper_id": 2,
+            "desktop_collection_id": "1",
+            "desktop_collection_name": "Desktop Collection 2",
+            "title": "Birds",
+            "thumb_url": "https://i.imgur.com/01NTHDmh.jpg",
+            "url": "https://i.imgur.com/01NTHDmh.jpg",
+            "featured": 1,
+            "tags": "purple,cyan,",
+            "view_count": 0,
+            "download_count": 0,
+            "color": null,
+            "status": 1
+        },
+        {
+            "desktop_collection_id": "1",
+            "wallpaper_id": 3,
+            "desktop_collection_name": "Desktop Collection 2",
+            "title": "Birds",
+            "thumb_url": "https://i.imgur.com/01NTHDmh.jpg",
+            "url": "https://i.imgur.com/01NTHDmh.jpg",
+            "featured": 1,
+            "tags": "purple,cyan,",
+            "view_count": 0,
+            "download_count": 0,
+            "color": null,
+            "status": 1
+        }
+    ]
+}
