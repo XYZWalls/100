@@ -1,7 +1,7 @@
 {
     "status": "ok",
-    "count": 3, // in this page
-    "count_total": 3, // in all page
+    "count": 3, 
+    "count_total": 3, 
     "pages": 1,
     "DesktopWallpapers": [
         {
